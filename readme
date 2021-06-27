@@ -1,0 +1,279 @@
+(who knows how much of this applies to Greed Mode, I certainly didn't check lmao)
+
+Downpour/Dross: 
+- 1: White Fire Room
+- 34: Mirror Room
+- 34 (Treasure Room): Knife Piece 1
+
+Mines/Ashpit:
+- 1: Button Room
+- 10: Secret Mineshaft Entrance
+- 11: Secret Mineshaft - Lobby
+- 20: Secret Mineshaft - Knife Piece 2
+- 30: Secret Mineshaft
+- 31: Secret Mineshaft (Chase) - levels are copied from subtype 30 with IDs bumped up by 1 to make the chase variants
+
+Mausoleum/Gehenna:
+- 89 (Boss): Dad's Note
+
+Corpse:
+- 88 (Boss): Mother
+
+The Ascent:
+- 0: End Room (ascent to next floor/Home, presumably)
+- 1: Basement
+- 4: Caves
+- 7: Depths
+- 27: Downpour
+- 29: Mines
+- 31: Mausoleum
+
+Home:
+- 0: Isaac's Room
+- 1: Hallway
+- 2: Mom's Room
+- 3: Living Room
+- 4 (Crawlspace): The Beast
+- 10: Isaac's Closet
+- 11: Tainted Closet
+- 33: Death Certificate Entrance
+- 34: Death Certificate
+
+The Void has subtypes that SEEM to correspond to the floor numbers as seen in the files in the 'rooms' folder, but since the floors in this file aren't actually used yet (Void's levels are currently taken from all the other levels' files) there's no real way to find out or use for this information. Edmund pls
+
+-- everything below this is in the 'special rooms' file
+
+Shops: Level
+- 0: Level 1
+- 1: Level 2
+- 2: Level 3
+- 3: Level 4
+- 4: Level 5
+- 10: Rare (good)
+- 11: Rare (bad)
+- 100: Tainted Keeper L1
+- 101: Tainted Keeper L2
+- 102: Tainted Keeper L3
+- 103: Tainted Keeper L4
+- 104: Tainted Keeper L5
+- 110: Tainted Keeper rare (good)
+- 111: Tainted Keeper rare (bad)
+
+Treasure Rooms: What's in there (these also apply to the treasure rooms on the alt-path floors)
+- 0: Normal
+- 1: Double
+- 2: Restock Machine
+- 3: Double + Restock Machine
+
+Challenge Room: Type of wave
+- 10: Regular
+- 11: Boss Challenge Room
+- 12: Great Gideon
+
+Library: These have subtypes but I've no idea what they could be used for, my best guess is subtle wall or floor texture variants. Lemme know if you think you've figured it out
+- 0: 
+- 1: 
+- 2: 
+- 3: 
+- 4: 
+
+Devil Room: 
+- 0: Normal
+- 1: Number Magnet ver. (with black hearts and Sheol enemies)
+
+Angel Room: 
+- 0: Normal
+- 1: The Stairway ver. (things are bought for money and there's a beggar at the entrance)
+
+Crawlspace: 
+- 0: Normal
+- 1: Gideon's Grave (secret uncovered by killing him with Chaos Card)
+- 2: Rotgut Maggot (g u s)
+- 3: Rotgut Heart
+
+Clean Bedroom:
+- 0: Normal
+- 99: Genesis
+
+Secret Exit: 
+- 1: To Downpour/Dross
+- 2: To Mines/Ashpit
+- 3: To Mausoleum/Gehenna
+
+Mid-Boss: Whomst
+- 0: Sloth
+- 1: Lust
+- 2: Wrath
+- 3: Gluttony
+- 4: Greed
+- 5: Envy
+- 6: Pride
+- 7: Super Sloth
+- 8: Super Lust
+- 9: Super Wrath
+- 10: Super Gluttony
+- 11: Super Greed
+- 12: Super Envy
+- 13: Super Pride
+- 14: Ultra Pride
+- 15: Krampus
+
+Boss: Whomst
+- 1: Monstro
+- 2: Larry Jr.
+- 3: Chub
+- 4: Gurdy
+- 5: Monstro II
+- 6: Mom
+- 7: Scolex
+- 8: Mom's Heart
+- 9: Famine
+- 10: Pestilence
+- 11: War
+- 12: Death
+- 13: Duke of Flies
+- 14: Peep
+- 15: Loki
+- 16: Blastocyst
+- 17: Gemini
+- 18: Fistula
+- 19: Gish
+- 20: Steven
+- 21: C.H.A.D.
+- 22: Headless Horseman
+- 23: The Fallen
+- 24: Satan
+- 25: It Lives!
+- 26: The Hollow
+- 27: Carrion Queen
+- 28: Gurdy Jr.
+- 29: The Husk
+- 30: The Bloat
+- 31: Lokii
+- 32: Blighted Ovum
+- 33: Teratoma
+- 34: Widow
+- 35: Mask of Infamy
+- 36: The Wretched
+- 37: Pin
+- 38: Conquest
+- 39: Isaac
+- 40: ??? / Blue Baby
+- 41: Daddy Long Legs
+- 42: Triachnid
+- 43: The Haunt
+- 44: Dingle
+- 45: Mega Maw
+- 46: The Gate
+- 47: Mega Fatty
+- 48: The Cage
+- 49: Mama Gurdy
+- 50: The Dark One
+- 51: The Adversary
+- 52: Polycephalus
+- 53: Mr. Fred
+- 54: The Lamb
+- 55: Mega Satan
+- 56: Gurglings
+- 57: The Stain
+- 58: Brownie
+- 59: The Forsaken
+- 60: Little Horn
+- 61: Rag Man
+- 62: Ultra Greed
+- 63: Hush
+- 64: Dangle
+- 65: Turdlings
+- 66: The Frail
+- 67: Rag Mega
+- 68: Sisters Vis
+- 69: Big Horn
+- 70: Delirium
+- 72: The Matriarch
+- 73: The Pile
+- 74: Reap Creep
+- 75: Lil Blub
+- 76: Wormwood
+- 77: Rainmaker
+- 78: The Visage
+- 79: Siren
+- 80: Tuff Twins
+- 81: The Heretic
+- 82: Hornfel
+- 83: Great Gideon
+- 84: Baby Plum
+- 85: The Scourge
+- 86: Chimera
+- 87: Rotgut
+- 88: Mother (room containing the hole to her proper arena)
+- 89: Mom (Mausoleum)
+- 90: Mom's Heart (Mausoleum)
+- 91: Min Min
+- 92: Clog
+- 93: Singe
+- 94: Bumbino
+- 95: Colostomia
+- 96: The Shell
+- 97: Turdlet
+- 101: The Horny Boys
+- 102: Clutch/The Possessor
+
+Super Secret Rooms: appearance
+- 0: Starting room with no walls
+- 1: Basement
+- 2: Cellar
+- 3: Burning Basement
+- 4: Caves
+- 5: Catacombs
+- 6: Flooded Caves (supports water currents)
+- 7: Depths
+- 8: Necropolis
+- 9: Dank Depths
+- 10: Womb
+- 11: Utero
+- 12: Scarred Womb
+- 13: ??? / Blue Womb
+- 14: Sheol
+- 15: Cathedral
+- 16: Dark Room
+- 17: Chest
+- 18: Mega Satan arena
+- 19: Library
+- 20: Shop
+- 21: Bedroom (Clean)
+- 22: Bedroom (Dirty)
+- 23: Secret Room
+- 24: Red Room
+- 25: Arcade
+- 26: I AM ERROR
+- 27: Slightly bluer Secret Room with polyp urns (?)
+- 28: Shop duplicate (Greed Mode shop floor?)
+- 29: Starting room with no walls duplicate
+- 30: Sacrifice Room
+- 31: Downpour
+- 32: Mines
+- 33: Mausoleum
+- 34: Corpse
+- 35: Planetarium
+- 36: Downpour secret room (flooded pits and bucket urns)
+- 37: Mines secret room
+- 38: Mausoleum secret room (skull urns and purple drippies)
+- 39: Mausoleum alt (bloodstained floors and cracked walls)
+- 40: Mausoleum duplicate?
+- 41: Mausoleum alt 2 (glowy purple)
+- 42: Mausoleum alt 3 (chains hanging from ceiling)
+- 43: Corpse alt (greyer)
+- 44: Corpse alt 2 (flooded floor and blood dripping from walls, supports water currents)
+- 45: Dross
+- 46: Ashpit
+- 47: Gehenna
+- 48: Mortis???
+- 49: Home (Isaac's room)
+- 50: Home (Main)
+- 51: Home (Dark)
+- 52: Home (Closet - too small for normal rooms)
+- 53: Home (Tainted closet - also small)
+- 54: Home (Dogma arena)
+- 55: Starting room with no walls duplicate
+- 56: Starting room with no walls duplicate
+- 57 crashes the game, so I presume it ends there
